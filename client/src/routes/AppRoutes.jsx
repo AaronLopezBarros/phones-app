@@ -1,10 +1,11 @@
 import { Route, Routes } from "react-router-dom";
-import IndexPage from "../pages/IndexPage/IndexPage";
+import PhoneDetailComponent from "../components/PhoneDetailComponent/PhoneDetailComponent";
 
-const AppRoutes = () => {
+const AppRoutes = (props) => {
+    const {phonesData} = props
     return (
-        <Routes>
-            <Route path="/" element={<IndexPage />}/>
+        <Routes >
+            <Route path="/phone-details/:id" element={<PhoneDetailComponent phonesData={phonesData}/>} />
         </Routes>
     )
 }
