@@ -4,6 +4,7 @@ import "./PhoneDetailComponent.css";
 
 const PhoneDetailComponent = (props) => {
   const { phonesData } = props;
+  //Filtramos los telefonos por el id para mostrar unicamente en el que el usuario hace click
   const phoneId = useParams().id;
   const filterPhone = phonesData?.filter((phone) => phone.id === phoneId);
 

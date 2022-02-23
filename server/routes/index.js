@@ -1,6 +1,6 @@
-const router = require("express").Router()
+const router = require("express").Router();
 
-const phoneRoutes = require("./phone.routes")
-router.use("/", phoneRoutes)
+const phoneRoutes = require("./phone.routes");
+router.use("/", phoneRoutes);
 
-module.exports = router
+module.exports = router;

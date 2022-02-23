@@ -1,6 +1,12 @@
 .App {
   text-align: center;
 }
+.spinner{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 @media (max-width: 800px){
 
   .card-container{
