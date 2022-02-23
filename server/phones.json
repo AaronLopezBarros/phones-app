@@ -1,5 +1,6 @@
 [
     {
+        "id": "1",
         "name": "iPhone 13",
         "colors": "Starlight, Midnight, Blue, Pink, Red",
         "cpu": "Hexa-core (2x3.22 GHz Avalanche + 4xX.X GHz Blizzard)",
@@ -8,6 +9,7 @@
         "img": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-13-01.jpg"  
     },
     {
+        "id": "2",
         "name": "Samsung Galaxy S22 Ultra 5G",
         "colors": "Phantom Black, White, Burgundy, Green, Graphite, Red, Sky Blue",
         "cpu": "Octa-core (1x2.8 GHz Cortex-X2 & 3x2.50 GHz Cortex-A710 & 4x1.8 GHz Cortex-A510) - Europe",
@@ -16,6 +18,7 @@
         "img": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s22-ultra-5g-3.jpg"  
     },
     {
+        "id": "3",
         "name": "BQ Aquaris X2 Pro",
         "colors": "Midnight Black, Glaze White, Deep Silver",
         "cpu": "Octa-core (4x2.2 GHz Kryo 260 Gold & 4x1.8 GHz Kryo 260 Silver)",
@@ -24,6 +27,7 @@
         "img": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s22-ultra-5g-3.jpg"  
     },
     {
+        "id": "4",
         "name": "Xiaomi Redmi Note 11",
         "colors": "Graphite Gray, Pearl White, Star Blue",
         "cpu": "Octa-core (4x2.4 GHz Kryo 265 Gold & 4x1.9 GHz Kryo 265 Silver)",
@@ -32,6 +36,7 @@
         "img": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-11-global-1.jpg"  
     },
     {
+        "id": "5",
         "name": "iPhone X",
         "colors": "Space Gray, Silver",
         "cpu": "Hexa-core 2.39 GHz (2x Monsoon + 4x Mistral)",
@@ -40,6 +45,7 @@
         "img": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-x-new-1.jpg"  
     },
     {
+        "id": "6",
         "name": "LG W41 Pro",
         "colors": "Magic Blue, Laser Blue",
         "cpu": "Octa-core (4x2.3 GHz Cortex-A53 & 4x1.8 GHz Cortex-A53)",
@@ -48,6 +54,7 @@
         "img": "https://fdn2.gsmarena.com/vv/pics/lg/lg-w41-pro-1.jpg"  
     },
     {
+        "id": "7",
         "name": "Asus ROG Phone 5s Pro",
         "colors": "Matte White",
         "cpu": "Octa-core (1x2.99 GHz Kryo 680 & 3x2.42 GHz Kryo 680 & 4x1.80 GHz Kryo 680)",
@@ -56,6 +63,7 @@
         "img": "https://fdn2.gsmarena.com/vv/pics/asus/asus-rog-phone-5s-pro-00.jpg"  
     },
     {
+        "id": "8",
         "name": "Huawei nova Y60",
         "colors": "Midnight Black, Crush Green",
         "cpu": "Octa-core (4x2.35 GHz Cortex-A53 & 4x1.8 GHz Cortex-A53)",
