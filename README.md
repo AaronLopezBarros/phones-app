@@ -9,7 +9,7 @@ Run npm install || yarn install on the client && on the server to install the de
 Available Scripts In the project directory, you can run:
 yarn run dev || npm run dev to raise the server at http://localhost:5005
 
-then yarn start || npm start
+Then yarn start || npm start
 
 Runs the app in the development mode. Open http://localhost:3000 to view it in the browser.
 
