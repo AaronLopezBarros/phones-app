@@ -1,0 +1,66 @@
+[
+    {
+        "name": "iPhone 13",
+        "colors": "Starlight, Midnight, Blue, Pink, Red",
+        "cpu": "Hexa-core (2x3.22 GHz Avalanche + 4xX.X GHz Blizzard)",
+        "dimensions": "163.3 x 77.9 x 8.9 mm (6.43 x 3.07 x 0.35 in)",
+        "weight": "174 g (6.14 oz)",
+        "img": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-13-01.jpg"  
+    },
+    {
+        "name": "Samsung Galaxy S22 Ultra 5G",
+        "colors": "Phantom Black, White, Burgundy, Green, Graphite, Red, Sky Blue",
+        "cpu": "Octa-core (1x2.8 GHz Cortex-X2 & 3x2.50 GHz Cortex-A710 & 4x1.8 GHz Cortex-A510) - Europe",
+        "dimensions": "146.7 x 71.5 x 7.7 mm (5.78 x 2.81 x 0.30 in)",
+        "weight": "228 g / 229 g (mmWave) (8.04 oz)",
+        "img": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s22-ultra-5g-3.jpg"  
+    },
+    {
+        "name": "BQ Aquaris X2 Pro",
+        "colors": "Midnight Black, Glaze White, Deep Silver",
+        "cpu": "Octa-core (4x2.2 GHz Kryo 260 Gold & 4x1.8 GHz Kryo 260 Silver)",
+        "dimensions": "150.7 x 72.3 x 8.4 mm (5.93 x 2.85 x 0.33 in)",
+        "weight": "168 g (5.93 oz)",
+        "img": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s22-ultra-5g-3.jpg"  
+    },
+    {
+        "name": "Xiaomi Redmi Note 11",
+        "colors": "Graphite Gray, Pearl White, Star Blue",
+        "cpu": "Octa-core (4x2.4 GHz Kryo 265 Gold & 4x1.9 GHz Kryo 265 Silver)",
+        "dimensions": "159.9 x 73.9 x 8.1 mm (6.30 x 2.91 x 0.32 in)",
+        "weight": "179 g (6.31 oz)",
+        "img": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-11-global-1.jpg"  
+    },
+    {
+        "name": "iPhone X",
+        "colors": "Space Gray, Silver",
+        "cpu": "Hexa-core 2.39 GHz (2x Monsoon + 4x Mistral)",
+        "dimensions": "143.6 x 70.9 x 7.7 mm (5.65 x 2.79 x 0.30 in)",
+        "weight": "174 g (6.14 oz)",
+        "img": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-x-new-1.jpg"  
+    },
+    {
+        "name": "LG W41 Pro",
+        "colors": "Magic Blue, Laser Blue",
+        "cpu": "Octa-core (4x2.3 GHz Cortex-A53 & 4x1.8 GHz Cortex-A53)",
+        "dimensions": "166.5 x 77.3 x 9.3 mm (6.56 x 3.04 x 0.37 in)",
+        "weight": "201 g (7.09 oz)",
+        "img": "https://fdn2.gsmarena.com/vv/pics/lg/lg-w41-pro-1.jpg"  
+    },
+    {
+        "name": "Asus ROG Phone 5s Pro",
+        "colors": "Matte White",
+        "cpu": "Octa-core (1x2.99 GHz Kryo 680 & 3x2.42 GHz Kryo 680 & 4x1.80 GHz Kryo 680)",
+        "dimensions": "172.8 x 77.3 x 9.9 mm (6.80 x 3.04 x 0.39 in)",
+        "weight": "238 g (8.40 oz)",
+        "img": "https://fdn2.gsmarena.com/vv/pics/asus/asus-rog-phone-5s-pro-00.jpg"  
+    },
+    {
+        "name": "Huawei nova Y60",
+        "colors": "Midnight Black, Crush Green",
+        "cpu": "Octa-core (4x2.35 GHz Cortex-A53 & 4x1.8 GHz Cortex-A53)",
+        "dimensions": "165.2 x 76 x 9.2 mm (6.50 x 2.99 x 0.36 in)",
+        "weight": "185 g (6.53 oz)",
+        "img": "https://fdn2.gsmarena.com/vv/pics/huawei/huawei-nova-y60-2.jpg"  
+    }
+]
